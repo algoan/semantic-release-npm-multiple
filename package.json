@@ -9,6 +9,7 @@
   "files": [
     "index.js"
   ],
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
