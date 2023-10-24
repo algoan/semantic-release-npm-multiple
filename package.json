@@ -7,7 +7,7 @@
   "author": "Amanda Mitchell <she@mandymitchell.me>",
   "license": "MIT",
   "files": [
-    "index.cjs"
+    "index.js"
   ],
   "type": "module",
   "publishConfig": {
