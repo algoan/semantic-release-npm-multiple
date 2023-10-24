@@ -1,4 +1,4 @@
-import { requireReload } from 'require-reload';
+const requireReload = require('require-reload');
 
 const reload = requireReload(require);
 
